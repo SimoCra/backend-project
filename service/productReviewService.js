@@ -1,5 +1,5 @@
 import db from "../config/db.js";
-import { addReview, getProductAverageRating, getProductReviews } from "../models/ProductReviewModel.js";
+import { addReview, getProductAverageRating, getProductReviews } from "../models/productReviewModel.js";
 
 
 // 📌 Obtener reseña individual
